@@ -17,7 +17,7 @@
 
 ## 🛠️ Tech Stack
 - **Languages:** Python, PHP, SQL, C, JavaScript
-- **Tools:** Burp Suite, sqlmap, Gobuster, Nmap, Docker, 
+- **Tools:** Burp Suite, sqlmap, Gobuster, Nmap, Docker
 - **Focus:** Offensive security, vulnerability exploitation, ethical hacking
 
 ---
