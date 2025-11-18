@@ -1,6 +1,6 @@
-# 👋 Hey, welcome to my GitHub!
+# Hey, welcome to my GitHub!
 
-## 🧑‍🎓 About Me
+## About Me
 - 🎓 Engineering student at **UTT** (Université de Technologie de Troyes), majoring in **Networks & Telecommunications**.
 - 🔐 Passionate about **cybersecurity**, especially the **offensive side**: pentesting, web security.
 - 🕹️ **CTF enjoyer** and always looking for new challenges.
@@ -10,7 +10,7 @@
 ---
 
 ## 🚀 What You'll Find Here
-- **Web Security Labs → [./Web](https://github.com/0rty/Web/blob/c0d749d693f250e82b4bdc75b17afbf68968fd5f/README.md)**
+- **Web Security Labs → [./Web](https://github.com/0rty/Web)**
 - **Other project in coming ...**
 
 ---
@@ -21,9 +21,5 @@
 - **Focus:** Offensive security, vulnerability exploitation, ethical hacking
 
 ---
-
-## 📊 GitHub Stats
-https://github-readme-stats.vercel.app/api?username=0rty&show_icons=true&theme=radical
-![Top://github-readme-stats.vercel.app/api/top-langs/?username=0rty&layout=compact&theme=radical
 
 
