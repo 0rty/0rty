@@ -11,7 +11,7 @@
 
 ## 🔍 What You'll Find Here
 - **Web Security Labs → [./Web](https://github.com/0rty/Web)**
-- **Other project in coming ...**
+- **Upcoming projects under development ...**
 
 ---
 
