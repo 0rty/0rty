@@ -1,4 +1,4 @@
-# Welcome to my GitHub!
+# Welcome to my GitHub
 
 ## About Me
 - 🎓 Engineering student at **UTT** (Université de Technologie de Troyes), majoring in **Networks & Telecommunications**.
