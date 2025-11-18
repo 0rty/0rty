@@ -10,7 +10,7 @@
 ---
 
 ## 🚀 What You'll Find Here
-- **Web Security Labs → [./Web](/Web/README.md)**
+- **Web Security Labs → [./Web](https://github.com/0rty/Web/blob/c0d749d693f250e82b4bdc75b17afbf68968fd5f/README.md)**
 - **Other project in coming ...**
 
 ---
