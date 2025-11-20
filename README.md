@@ -4,7 +4,7 @@
 - 🎓 Engineering student at **UTT** (Université de Technologie de Troyes), majoring in **Networks & Telecommunications**.
 - 🔐 Passionate about **cybersecurity**, especially the **offensive side**: pentesting, web security.
 - 🕹️ **CTF enjoyer** and always looking for new challenges.
-- 📖 Currently learning more about **pwn** and low-level exploitation.
+- 📖 Currently learning more about **pwn** and **Active Directory**.
 - 💡 I also run **HackUTT workshops**, teaching web security and pentesting to other students.
 
 ---
