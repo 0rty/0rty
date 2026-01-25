@@ -11,7 +11,7 @@
 
 ## 🔍 What You'll Find Here
 - **Web Security Labs → [./Web](https://github.com/0rty/Web)**
-- **wn notes → [./Pwn](https://github.com/0rty/Pwn)**
+- **Pwn notes → [./Pwn](https://github.com/0rty/Pwn)**
 - **Upcoming projects under development ...**
 
 ---
