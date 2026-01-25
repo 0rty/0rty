@@ -11,13 +11,14 @@
 
 ## 🔍 What You'll Find Here
 - **Web Security Labs → [./Web](https://github.com/0rty/Web)**
+- **wn notes → [./Pwn](https://github.com/0rty/Pwn)**
 - **Upcoming projects under development ...**
 
 ---
 
 ## 🛠️ Tech Stack
 - **Languages:** Python, Bash, SQL, C, PHP, JavaScript
-- **Tools:** Burp Suite, sqlmap, Gobuster, Nmap, Docker
+- **Tools:** Burp Suite / Caido, sqlmap, Gobuster, Nmap, Docker, Metasploit
 - **Focus:** Offensive security, vulnerability exploitation, ethical hacking
 
 ---
