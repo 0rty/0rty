@@ -12,7 +12,7 @@
 ## 🔍 What You'll Find Here
 - **Web Security Labs → [./Web](https://github.com/0rty/Web)**
 - **Pwn notes → [./Pwn](https://github.com/0rty/Pwn)**
-- **Sack0sh.py → [./Sack0sh](https://github.com/0rty/Sack0sh)**
+- **sack0sh.py → [./sack0sh](https://github.com/0rty/sack0sh)**
 - **Upcoming projects under development ...**
 
 ---
