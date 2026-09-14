@@ -11,6 +11,7 @@
 
 ## 🔍 What You'll Find Here
 - **Web Security Labs → [./Web](https://github.com/0rty/Web)**
+- **Shell escape Labs → [./Shell_escape](https://github.com/0rty/shell-escape)**
 - **Pwn notes → [./Pwn](https://github.com/0rty/Pwn)**
 - **sack0sh.py → [./sack0sh](https://github.com/0rty/sack0sh)**
 - **Upcoming projects under development ...**
