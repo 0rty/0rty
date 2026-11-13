@@ -14,12 +14,13 @@
 - **Shell escape Labs → [./Shell_escape](https://github.com/0rty/shell-escape)**
 - **Pwn notes → [./Pwn](https://github.com/0rty/Pwn)**
 - **sack0sh.py → [./sack0sh](https://github.com/0rty/sack0sh)**
+- **shellygo → [./shellygo](https://github.com/0rty/shellygo)**
 - **Upcoming projects under development ...**
 
 ---
 
 ## 🛠️ Tech Stack
-- **Languages:** Python, Bash, SQL, C, PHP, JavaScript
+- **Languages:** Python, Bash, GO, SQL, C, PHP, JavaScript
 - **Tools:** Burp Suite / Caido, sqlmap, Gobuster, Nmap, Docker, Metasploit
 - **Focus:** Offensive security, vulnerability exploitation, ethical hacking
 
