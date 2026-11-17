@@ -25,7 +25,7 @@
 
 ## 🛠️ Tech Stack
 - **Languages:** Python, Bash, GO, SQL, C, PHP, JavaScript
-- **Tools:** Burp Suite / Caido, sqlmap, Gobuster, Nmap, Docker, Metasploit
+- **Tools:** Burp Suite / Caido, sqlmap, Gobuster / ffuf, Nmap, Docker, Metasploit, Netexec, hydra, Bloodhound ...
 - **Focus:** Offensive security, vulnerability exploitation, ethical hacking
 
 ---
